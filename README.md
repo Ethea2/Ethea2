@@ -20,8 +20,8 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 </p>
 
 ### **⏲️This week I spent my time on:**
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ethea2&theme=midnight-purple&count_private=true)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
