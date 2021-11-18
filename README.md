@@ -14,7 +14,7 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 - I’m currently learning VueJS and NodeJS 🌱 
 - My favorite language is Python 🐍
 <p float="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethea2&layout=compact&theme=midnight-purple" align="right" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethea2&layout=compact&theme=midnight-purple" />
     <img src="https://github-readme-stats.vercel.app/api?username=Ethea2&show_icons=true&count_private=true&theme=midnight-purple" />
 </p>
 
