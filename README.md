@@ -11,7 +11,7 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 - 🚗💨 I'm a fast learner 🚗💨
 - 🎸 I'm a guitar player 🎸
 - 🎮 I'm an avid competitive gamer 🎮
-- I'm born in Philippines 🇵🇭 and raised in Oman 🇴🇲
+- 🐤I'm born in Philippines 🇵🇭 and raised in Oman 🇴🇲🐤
 - 🐍 My favorite language is Python 🐍
 ### **📈My Stats:**
 <p float="left">
