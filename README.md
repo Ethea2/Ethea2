@@ -21,6 +21,3 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ### **⏲️This week I spent my time on⏲️:**
 ![Ethea's Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ethea2&theme=midnight-purple&count_private=true&layout=compact)
-
-
-
