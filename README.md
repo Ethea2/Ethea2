@@ -15,7 +15,7 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 - 🐍 My favorite language is Python 🐍
 ### **📈My Stats📈:**
 <p float="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ethea2&show_icons=true&count_private=true&theme=midnight-purple" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ethea2&show_icons=true&count_private=true&theme=midnight-purple" width="450"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethea2&layout=compact&theme=midnight-purple&count_private=true" width="350" />
 </p>
 
