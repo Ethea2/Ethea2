@@ -8,14 +8,14 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 **Some quick personal details**:
 
-- 🚗💨 I'm a fast learner 🚗💨
-- 🎸 I'm a guitar player 🎸
-- 🎮 I'm an avid competitive gamer 🎮
-- 🐤I was born in the Philippines 🇵🇭 and raised in Oman 🇴🇲🐤
+- 🚗💨 Fast learner 🚗💨
+- 🎸 Guitar player 🎸
+- 🎮 An avid competitive gamer and E-sports enthusiast 🎮
+- 🐤Born in the Philippines 🇵🇭 and raised in Oman 🇴🇲🐤
 - 🐍 My favorite language is Python 🐍
 ### **📈My Stats📈:**
 <p float="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ethea2&show_icons=true&count_private=true&theme=midnight-purple" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ethea2&show_icons=true&count_private=true&theme=midnight-purple" width="400"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethea2&layout=compact&theme=midnight-purple&count_private=true" width="330" />
 </p>
 
