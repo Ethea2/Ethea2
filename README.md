@@ -4,7 +4,7 @@
 ### **About me 🍀**
 My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan**. I'm an aspiring web developer who likes coding random stuff! I'm constantly trying to learn a lot of things all at the same time 😊, it's hard but it's fun! I love programming, creating software is one of my favorite passtime 🖥️. 
 
-<img src="https://pbs.twimg.com/media/FYEVH6GaAAE064l?format=jpg&name=medium" width="225" height="215" align="right" />
+<img src="https://pbs.twimg.com/media/FYEVH6GaAAE064l?format=jpg&name=medium" width="425" height="215" align="right" />
 
 **Some quick personal details**:
 
