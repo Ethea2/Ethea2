@@ -18,7 +18,7 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 <p float="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Ethea2&show_icons=true&count_private=true&theme=midnight-purple" width="480"/>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=Ethea2&theme=dark&hide_border=true)](https://git.io/streak-stats)
+    <img src="https://streak-stats.demolab.com?user=Ethea2&theme=dark&hide_border=true"/>
 </p>
 
 ### **⏲️This week I spent my time on⏲️:**
