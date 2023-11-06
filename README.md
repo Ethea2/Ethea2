@@ -17,10 +17,10 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 ### **📈My Stats📈:**
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ethea2&show_icons=true&count_private=true&theme=midnight-purple" width="480"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ethea2&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true" width="480"/>
     <img src="https://streak-stats.demolab.com?user=Ethea2&theme=midnight-purple&hide_border=true"/>
 </div>
 
 ### **⏲️This week I spent my time on⏲️:**
 
-![Ethea's Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ethea2&theme=midnight-purple&count_private=true&layout=compact)
+![Ethea's Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ethea2&theme=midnight-purple&count_private=true&layout=compact&hide_border=true)
