@@ -26,15 +26,15 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 <!-- ![Ethea's Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ethea2&theme=midnight-purple&count_private=true&layout=compact) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-461%20hrs%2052%20mins-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-🌆 Daytime                883 commits         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-🌃 Evening                1331 commits        █████████░░░░░░░░░░░░░░░░   37.23 % 
-🌙 Night                  918 commits         ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+🌞 Morning                443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+🌆 Daytime                885 commits         ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+🌃 Evening                1340 commits        █████████░░░░░░░░░░░░░░░░   37.26 % 
+🌙 Night                  928 commits         ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
 ```
 
 
@@ -42,10 +42,10 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Neovim                   17 hrs 39 mins      █████████████████████████   100.00 % 
+Neovim                   18 hrs 47 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,5 +61,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2023 18:36:46 UTC
+ Last Updated on 25/11/2023 18:36:33 UTC
 <!--END_SECTION:waka-->
