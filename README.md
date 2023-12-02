@@ -26,7 +26,7 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 <!-- ![Ethea's Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ethea2&theme=midnight-purple&count_private=true&layout=compact) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2025%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -42,10 +42,10 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Neovim                   16 hrs 35 mins      █████████████████████████   100.00 % 
+Neovim                   14 hrs 31 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    16 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,5 +61,5 @@ Lua                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2023 18:38:01 UTC
+ Last Updated on 02/12/2023 18:37:13 UTC
 <!--END_SECTION:waka-->
