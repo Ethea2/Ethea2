@@ -42,10 +42,10 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Neovim                   1 hr 33 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 30 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 33 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,5 +61,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2024 18:39:32 UTC
+ Last Updated on 28/05/2024 18:40:05 UTC
 <!--END_SECTION:waka-->
