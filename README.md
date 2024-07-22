@@ -11,8 +11,9 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 - 🚗💨 Fast learner 🚗💨
 - 🎸 Guitar player 🎸
 - 🎮 An avid competitive gamer and E-sports enthusiast 🎮
-- 🐤Born in the Philippines 🇵🇭 and raised in Oman 🇴🇲🐤
-- 🐍 My favorite language is Python 🐍
+- 🐤 Born in the Philippines 🇵🇭 and raised in Oman 🇴🇲🐤
+- 🦦 My favorite language is Golang 🦦
+- 🐧 Linux Enjoyer 🐧
 
 ### **📈My Stats📈:**
 
