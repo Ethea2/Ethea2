@@ -52,15 +52,15 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               18 repos            ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Lua                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Svelte                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Lua                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Svelte                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
 
 
- Last Updated on 03/10/2024 18:47:11 UTC
+ Last Updated on 04/10/2024 18:45:51 UTC
 <!--END_SECTION:waka-->
