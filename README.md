@@ -43,10 +43,10 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Neovim                   26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -62,5 +62,5 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2025 18:47:40 UTC
+ Last Updated on 21/03/2025 18:48:00 UTC
 <!--END_SECTION:waka-->
