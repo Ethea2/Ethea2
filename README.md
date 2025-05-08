@@ -27,7 +27,7 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 <!-- ![Ethea's Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ethea2&theme=midnight-purple&count_private=true&layout=compact) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-714%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-714%20hrs%2054%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -62,5 +62,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2025 18:50:26 UTC
+ Last Updated on 08/05/2025 18:52:28 UTC
 <!--END_SECTION:waka-->
