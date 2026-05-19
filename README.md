@@ -27,13 +27,15 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 <!-- ![Ethea's Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ethea2&theme=midnight-purple&count_private=true&layout=compact) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-789%20hrs%2045%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                804 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-🌆 Daytime                1203 commits        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-🌃 Evening                2337 commits        █████████░░░░░░░░░░░░░░░░   37.83 % 
-🌙 Night                  1833 commits        ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+🌞 Morning                808 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+🌆 Daytime                1204 commits        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+🌃 Evening                2337 commits        █████████░░░░░░░░░░░░░░░░   37.80 % 
+🌙 Night                  1833 commits        ███████░░░░░░░░░░░░░░░░░░   29.65 % 
 ```
 
 
@@ -50,15 +52,15 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Lua                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Go                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Lua                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 
 
 
- Last Updated on 18/05/2026 20:15:50 UTC
+ Last Updated on 19/05/2026 20:18:07 UTC
 <!--END_SECTION:waka-->
