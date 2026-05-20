@@ -43,10 +43,12 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      1 hr 21 mins        ██████████████████████░░░   88.00 % 
+Unknown Editor           11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 7 mins         ██████████████████░░░░░░░   72.52 % 
+WSL                      25 mins             ███████░░░░░░░░░░░░░░░░░░   27.48 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,5 +64,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2026 20:18:07 UTC
+ Last Updated on 20/05/2026 20:40:21 UTC
 <!--END_SECTION:waka-->
