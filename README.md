@@ -32,10 +32,10 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                808 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-🌆 Daytime                1204 commits        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-🌃 Evening                2337 commits        █████████░░░░░░░░░░░░░░░░   37.80 % 
-🌙 Night                  1833 commits        ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+🌞 Morning                808 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+🌆 Daytime                1204 commits        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+🌃 Evening                2343 commits        █████████░░░░░░░░░░░░░░░░   37.85 % 
+🌙 Night                  1835 commits        ███████░░░░░░░░░░░░░░░░░░   29.64 % 
 ```
 
 
@@ -43,26 +43,26 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Zed                      1 hr 41 mins        ██████████████████████░░░   86.90 % 
-Unknown Editor           15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Zed                      3 hrs 58 mins       ████████████████████████░   95.53 % 
+Unknown Editor           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 💻 Operating System: 
-Windows                  1 hr 27 mins        ███████████████████░░░░░░   74.62 % 
-WSL                      29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+Windows                  3 hrs 44 mins       ██████████████████████░░░   89.77 % 
+WSL                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Lua                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Lua                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 
 
 
 
- Last Updated on 24/05/2026 19:50:50 UTC
+ Last Updated on 25/05/2026 20:12:56 UTC
 <!--END_SECTION:waka-->
