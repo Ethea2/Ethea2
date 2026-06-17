@@ -24,27 +24,6 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs%2058%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                835 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-🌆 Daytime                1252 commits        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-🌃 Evening                2427 commits        ██████████░░░░░░░░░░░░░░░   38.08 % 
-🌙 Night                  1860 commits        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-Zed                      5 hrs 13 mins       ████████████████████████░   97.59 % 
-Unknown Editor           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-
-💻 Operating System: 
-WSL                      5 hrs 21 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -58,5 +37,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2026 21:30:29 UTC
+ Last Updated on 17/06/2026 20:40:28 UTC
 <!--END_SECTION:waka-->
