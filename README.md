@@ -22,15 +22,15 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 <!-- ![Ethea's Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ethea2&theme=midnight-purple&count_private=true&layout=compact) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-826%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-826%20hrs%2038%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                907 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 🌆 Daytime                1385 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-🌃 Evening                2622 commits        ██████████░░░░░░░░░░░░░░░   38.45 % 
-🌙 Night                  1905 commits        ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+🌃 Evening                2623 commits        ██████████░░░░░░░░░░░░░░░   38.46 % 
+🌙 Night                  1905 commits        ███████░░░░░░░░░░░░░░░░░░   27.93 % 
 ```
 
 
@@ -38,24 +38,24 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Lua                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+TypeScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Lua                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 
 
 
 
- Last Updated on 16/07/2026 19:46:39 UTC
+ Last Updated on 17/07/2026 19:44:06 UTC
 <!--END_SECTION:waka-->
