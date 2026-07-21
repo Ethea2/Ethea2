@@ -27,10 +27,10 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                907 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-🌆 Daytime                1386 commits        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-🌃 Evening                2623 commits        ██████████░░░░░░░░░░░░░░░   38.45 % 
-🌙 Night                  1905 commits        ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+🌞 Morning                909 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+🌆 Daytime                1386 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+🌃 Evening                2623 commits        ██████████░░░░░░░░░░░░░░░   38.44 % 
+🌙 Night                  1905 commits        ███████░░░░░░░░░░░░░░░░░░   27.92 % 
 ```
 
 
@@ -38,24 +38,25 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Zed                      59 mins             █████████████████████████   100.00 % 
+Zed                      1 hr 8 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  59 mins             █████████████████████████   100.00 % 
+Windows                  59 mins             ██████████████████████░░░   87.97 % 
+WSL                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Lua                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+TypeScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Lua                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 
 
 
 
- Last Updated on 20/07/2026 20:11:52 UTC
+ Last Updated on 21/07/2026 20:04:52 UTC
 <!--END_SECTION:waka-->
