@@ -22,13 +22,11 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 <!-- ![Ethea's Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ethea2&theme=midnight-purple&count_private=true&layout=compact) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-827%20hrs%2024%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                909 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-🌆 Daytime                1386 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+🌆 Daytime                1387 commits        █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
 🌃 Evening                2623 commits        ██████████░░░░░░░░░░░░░░░   38.44 % 
 🌙 Night                  1905 commits        ███████░░░░░░░░░░░░░░░░░░   27.92 % 
 ```
@@ -38,25 +36,25 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Zed                      1 hr 8 mins         █████████████████████████   100.00 % 
+Zed                      1 hr 40 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  59 mins             ██████████████████████░░░   87.97 % 
-WSL                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+WSL                      1 hr                ███████████████░░░░░░░░░░   60.33 % 
+Windows                  39 mins             ██████████░░░░░░░░░░░░░░░   39.67 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+TypeScript               23 repos            ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
 Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 Lua                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 
 
 
 
- Last Updated on 22/07/2026 19:57:43 UTC
+ Last Updated on 23/07/2026 20:01:28 UTC
 <!--END_SECTION:waka-->
