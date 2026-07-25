@@ -22,6 +22,29 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 <!-- ![Ethea's Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ethea2&theme=midnight-purple&count_private=true&layout=compact) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-828%20hrs%2040%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                909 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+🌆 Daytime                1387 commits        █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+🌃 Evening                2623 commits        ██████████░░░░░░░░░░░░░░░   38.44 % 
+🌙 Night                  1905 commits        ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+Zed                      1 hr 5 mins         █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      1 hr                ███████████████████████░░   92.25 % 
+Windows                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -35,5 +58,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 20:00:42 UTC
+ Last Updated on 25/07/2026 19:47:50 UTC
 <!--END_SECTION:waka-->
