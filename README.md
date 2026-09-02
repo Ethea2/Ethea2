@@ -38,16 +38,32 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 min (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 3,870 Input Tokens, 3,870 Output Tokens
+
+💵 $0.07 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 4,600 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -63,5 +79,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 21:19:34 UTC
+ Last Updated on 02/09/2026 21:18:08 UTC
 <!--END_SECTION:waka-->
