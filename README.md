@@ -53,17 +53,17 @@ Windows                  1 min               ███████████�
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 3,962 Input Tokens, 3,962 Output Tokens
+🔤 115 Input Tokens, 115 Output Tokens
 
-💵 $0.07 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 8 AI Prompts
+🧠 4 AI Sessions, 6 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 2,345 characters per prompt
+📄 Detailed Prompter — average 562 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -81,5 +81,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 20:38:36 UTC
+ Last Updated on 06/09/2026 20:40:45 UTC
 <!--END_SECTION:waka-->
