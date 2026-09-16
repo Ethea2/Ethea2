@@ -40,33 +40,33 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Agent                    53 mins             █████████████░░░░░░░░░░░░   52.17 % 
-Cursor                   49 mins             ████████████░░░░░░░░░░░░░   47.83 % 
+Cursor                   34 mins             ███████████████░░░░░░░░░░   60.55 % 
+Agent                    22 mins             ██████████░░░░░░░░░░░░░░░   39.45 % 
 
 💻 Operating System: 
-Linux                    1 hr 43 mins        █████████████████████████   100.00 % 
+Linux                    57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 31 mins (88.74%)
+⏱ AI Coding Time: 48 mins (84.43%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 112,516 Input Tokens, 112,516 Output Tokens
+🔤 33,289 Input Tokens, 33,289 Output Tokens
 
-💵 $2.03 Estimated AI Cost This Week
+💵 $0.60 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 46 AI Prompts
+🧠 6 AI Sessions, 31 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 9,797 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 4,314 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,5 +82,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 21:41:33 UTC
+ Last Updated on 16/09/2026 21:35:26 UTC
 <!--END_SECTION:waka-->
