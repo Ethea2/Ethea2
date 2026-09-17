@@ -40,31 +40,31 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Cursor                   34 mins             ███████████████░░░░░░░░░░   60.55 % 
-Agent                    22 mins             ██████████░░░░░░░░░░░░░░░   39.45 % 
+Agent                    46 mins             ██████████████░░░░░░░░░░░   57.40 % 
+Cursor                   34 mins             ███████████░░░░░░░░░░░░░░   42.60 % 
 
 💻 Operating System: 
-Linux                    57 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 mins (84.43%)
+⏱ AI Coding Time: 1 hr 12 mins (89.05%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 33,289 Input Tokens, 33,289 Output Tokens
+🔤 35,290 Input Tokens, 35,290 Output Tokens
 
-💵 $0.60 Estimated AI Cost This Week
+💵 $0.64 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 31 AI Prompts
+🧠 8 AI Sessions, 39 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 4,314 characters per prompt
+📚 Verbose Prompter — average 3,634 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -82,5 +82,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 21:35:26 UTC
+ Last Updated on 17/09/2026 21:40:28 UTC
 <!--END_SECTION:waka-->
