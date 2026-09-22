@@ -40,32 +40,33 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Agent                    24 mins             █████████████████████████   100.00 % 
+Agent                    49 mins             ████████████████████████░   97.27 % 
+Cursor                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 💻 Operating System: 
-Linux                    24 mins             █████████████████████████   100.00 % 
+Linux                    51 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (100.0%)
+⏱ AI Coding Time: 49 mins (97.56%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,001 Input Tokens, 2,001 Output Tokens
+🔤 27,664 Input Tokens, 27,664 Output Tokens
 
-💵 $0.04 Estimated AI Cost This Week
+💵 $0.50 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 4 AI Sessions, 16 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 1,001 characters per prompt
+📚 Verbose Prompter — average 6,916 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,5 +82,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 22:11:49 UTC
+ Last Updated on 22/09/2026 21:38:38 UTC
 <!--END_SECTION:waka-->
