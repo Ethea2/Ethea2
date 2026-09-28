@@ -22,9 +22,9 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 <!-- ![Ethea's Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ethea2&theme=midnight-purple&count_private=true&layout=compact) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-826%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-827%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2037%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -40,25 +40,26 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Agent                    36 mins             █████████████░░░░░░░░░░░░   52.22 % 
-Cursor                   33 mins             ████████████░░░░░░░░░░░░░   47.78 % 
+Cursor                   1 hr 8 mins         ████████████████░░░░░░░░░   65.46 % 
+Agent                    36 mins             █████████░░░░░░░░░░░░░░░░   34.54 % 
 
 💻 Operating System: 
-Linux                    1 hr 9 mins         █████████████████████████   100.00 % 
+Linux                    1 hr 23 mins        ████████████████████░░░░░   79.47 % 
+Windows                  21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (57.69%)
+⏱ AI Coding Time: 46 mins (44.88%)
 
-✍️ 0 lines written by AI, 4 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 722 lines written by hand (0.0% AI-written)
 
 🔤 25,686 Input Tokens, 25,686 Output Tokens
 
 💵 $0.46 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 12 AI Prompts
+🧠 7 AI Sessions, 12 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
@@ -82,5 +83,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 21:36:16 UTC
+ Last Updated on 28/09/2026 23:33:12 UTC
 <!--END_SECTION:waka-->
