@@ -40,18 +40,18 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Cursor                   1 hr 7 mins         ██████████████████████░░░   86.35 % 
-Agent                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Cursor                   1 hr 11 mins        ██████████████████████░░░   87.15 % 
+Agent                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
 
 💻 Operating System: 
-Linux                    56 mins             ██████████████████░░░░░░░   72.35 % 
-Windows                  21 mins             ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+Linux                    56 mins             █████████████████░░░░░░░░   68.10 % 
+Windows                  26 mins             ████████░░░░░░░░░░░░░░░░░   31.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (27.38%)
+⏱ AI Coding Time: 21 mins (25.77%)
 
 ✍️ 0 lines written by AI, 722 lines written by hand (0.0% AI-written)
 
@@ -83,5 +83,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 22:35:42 UTC
+ Last Updated on 30/09/2026 22:33:48 UTC
 <!--END_SECTION:waka-->
