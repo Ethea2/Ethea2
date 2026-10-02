@@ -40,32 +40,32 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Cursor                   1 hr 11 mins        ██████████████████████░░░   87.15 % 
-Agent                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Cursor                   1 hr 37 mins        ███████████████████████░░   90.20 % 
+Agent                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 
 💻 Operating System: 
-Linux                    56 mins             █████████████████░░░░░░░░   68.10 % 
-Windows                  26 mins             ████████░░░░░░░░░░░░░░░░░   31.90 % 
+Linux                    56 mins             █████████████░░░░░░░░░░░░   51.96 % 
+Windows                  51 mins             ████████████░░░░░░░░░░░░░   48.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (25.77%)
+⏱ AI Coding Time: 42 mins (39.32%)
 
-✍️ 0 lines written by AI, 722 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 803 lines written by hand (0.0% AI-written)
 
 🔤 23 Input Tokens, 23 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 5 AI Prompts
+🧠 8 AI Sessions, 8 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 336 characters per prompt
+📝 Concise Prompter — average 246 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -83,5 +83,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 22:55:09 UTC
+ Last Updated on 02/10/2026 22:31:25 UTC
 <!--END_SECTION:waka-->
