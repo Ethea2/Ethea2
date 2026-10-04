@@ -30,9 +30,9 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🌞 Morning                911 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-🌆 Daytime                1391 commits        █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-🌃 Evening                2626 commits        ██████████░░░░░░░░░░░░░░░   38.43 % 
-🌙 Night                  1905 commits        ███████░░░░░░░░░░░░░░░░░░   27.88 % 
+🌆 Daytime                1391 commits        █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+🌃 Evening                2628 commits        ██████████░░░░░░░░░░░░░░░   38.45 % 
+🌙 Night                  1905 commits        ███████░░░░░░░░░░░░░░░░░░   27.87 % 
 ```
 
 
@@ -40,46 +40,48 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Cursor                   1 hr 33 mins        ███████████████████████░░   90.37 % 
-Agent                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Cursor                   1 hr 18 mins        ████████████████████████░   96.81 % 
+Agent                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 💻 Operating System: 
-Linux                    51 mins             ████████████░░░░░░░░░░░░░   50.00 % 
-Windows                  51 mins             ████████████░░░░░░░░░░░░░   50.00 % 
+Windows                  1 hr 7 mins         █████████████████████░░░░   82.88 % 
+Linux                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (36.85%)
+⏱ AI Coding Time: 36 mins (44.65%)
 
-✍️ 0 lines written by AI, 803 lines written by hand (0.0% AI-written)
+✍️ 64 lines written by AI, 810 lines written by hand (7.32% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 7 AI Prompts
+🧠 7 AI Sessions, 6 AI Prompts
+
+Grok                     64 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 267 characters per prompt
+🧑‍💻 Mostly Hands-On — 7.32% of written lines came from AI
+📚 Verbose Prompter — average 337,062 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 95.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               24 repos            ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Lua                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+TypeScript               24 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Lua                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 
 
 
 
- Last Updated on 03/10/2026 21:42:17 UTC
+ Last Updated on 04/10/2026 21:49:59 UTC
 <!--END_SECTION:waka-->
