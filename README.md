@@ -22,16 +22,16 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 <!-- ![Ethea's Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ethea2&theme=midnight-purple&count_private=true&layout=compact) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-828%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-828%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2037%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                911 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-🌆 Daytime                1391 commits        █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-🌃 Evening                2628 commits        ██████████░░░░░░░░░░░░░░░   38.45 % 
+🌆 Daytime                1392 commits        █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+🌃 Evening                2628 commits        ██████████░░░░░░░░░░░░░░░   38.44 % 
 🌙 Night                  1905 commits        ███████░░░░░░░░░░░░░░░░░░   27.87 % 
 ```
 
@@ -40,33 +40,33 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Cursor                   1 hr 5 mins         ███████████████████████░░   93.20 % 
-Agent                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Cursor                   2 hrs 43 mins       ████████████████████████░   97.16 % 
+Agent                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 💻 Operating System: 
-Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (76.22%)
+⏱ AI Coding Time: 2 hrs 11 mins (78.42%)
 
-✍️ 98 lines written by AI, 98 lines written by hand (50.0% AI-written)
+✍️ 98 lines written by AI, 186 lines written by hand (34.51% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 16 AI Prompts
+🧠 13 AI Sessions, 22 AI Prompts
 
 Grok                     98 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.0% of written lines came from AI
-📝 Concise Prompter — average 174 characters per prompt
+⚖️ Balanced with AI — 34.51% of written lines came from AI
+📝 Concise Prompter — average 151 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 89.32% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 90.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,5 +82,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 00:19:22 UTC
+ Last Updated on 06/10/2026 22:49:58 UTC
 <!--END_SECTION:waka-->
