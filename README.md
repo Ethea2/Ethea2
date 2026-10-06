@@ -22,9 +22,9 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 <!-- ![Ethea's Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ethea2&theme=midnight-purple&count_private=true&layout=compact) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-828%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-828%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2013%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -40,34 +40,33 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Cursor                   1 hr 18 mins        ████████████████████████░   96.81 % 
-Agent                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Cursor                   1 hr 5 mins         ███████████████████████░░   93.20 % 
+Agent                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████░░░░   82.88 % 
-Linux                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (44.65%)
+⏱ AI Coding Time: 53 mins (76.22%)
 
-✍️ 64 lines written by AI, 810 lines written by hand (7.32% AI-written)
+✍️ 98 lines written by AI, 98 lines written by hand (50.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 6 AI Prompts
+🧠 9 AI Sessions, 16 AI Prompts
 
-Grok                     64 lines            █████████████████████████   100.00 % 
+Grok                     98 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 7.32% of written lines came from AI
-📚 Verbose Prompter — average 337,062 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 95.99% of changed lines were hand-edited
+⚖️ Balanced with AI — 50.0% of written lines came from AI
+📝 Concise Prompter — average 174 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 89.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,5 +82,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 21:49:59 UTC
+ Last Updated on 06/10/2026 00:19:22 UTC
 <!--END_SECTION:waka-->
