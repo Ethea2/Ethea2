@@ -22,9 +22,9 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 <!-- ![Ethea's Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ethea2&theme=midnight-purple&count_private=true&layout=compact) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-830%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-830%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2032%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -40,33 +40,33 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Cursor                   3 hrs 35 mins       ████████████████████████░   97.84 % 
-Agent                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Cursor                   4 hrs 26 mins       █████████████████████████   98.24 % 
+Agent                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 💻 Operating System: 
-Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 47 mins (76.21%)
+⏱ AI Coding Time: 3 hrs 37 mins (80.27%)
 
-✍️ 98 lines written by AI, 269 lines written by hand (26.7% AI-written)
+✍️ 98 lines written by AI, 388 lines written by hand (20.16% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 29 AI Prompts
+🧠 20 AI Sessions, 39 AI Prompts
 
 Grok                     98 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 26.7% of written lines came from AI
-📝 Concise Prompter — average 141 characters per prompt
+🧑‍💻 Mostly Hands-On — 20.16% of written lines came from AI
+📝 Concise Prompter — average 130 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 91.18% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 92.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,5 +82,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 23:20:22 UTC
+ Last Updated on 08/10/2026 23:35:55 UTC
 <!--END_SECTION:waka-->
