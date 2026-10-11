@@ -40,33 +40,33 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Cursor                   4 hrs               █████████████████████████   98.06 % 
-Agent                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Cursor                   3 hrs 55 mins       █████████████████████████   99.09 % 
+Agent                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Windows                  4 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 16 mins (80.0%)
+⏱ AI Coding Time: 3 hrs 8 mins (79.39%)
 
-✍️ 98 lines written by AI, 307 lines written by hand (24.2% AI-written)
+✍️ 34 lines written by AI, 296 lines written by hand (10.3% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 36 AI Prompts
+🧠 17 AI Sessions, 35 AI Prompts
 
-Grok                     98 lines            █████████████████████████   100.00 % 
+Grok                     34 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 24.2% of written lines came from AI
-📝 Concise Prompter — average 133 characters per prompt
+🧑‍💻 Mostly Hands-On — 10.3% of written lines came from AI
+📝 Concise Prompter — average 136 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 77.78% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 90.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,5 +82,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 22:00:56 UTC
+ Last Updated on 11/10/2026 22:18:22 UTC
 <!--END_SECTION:waka-->
