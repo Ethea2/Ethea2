@@ -40,28 +40,28 @@ My real name is **Wray Nathan Andres**, you can call me by my nickname: **Nathan
 
 ```text
 🔥 Editors: 
-Cursor                   3 hrs 33 mins       █████████████████████████   100.00 % 
+Cursor                   1 hr 55 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 44 mins (76.98%)
+⏱ AI Coding Time: 1 hr 25 mins (74.41%)
 
-✍️ 0 lines written by AI, 290 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 202 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 24 AI Prompts
+🧠 8 AI Sessions, 17 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 110 characters per prompt
+📝 Concise Prompter — average 103 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -79,5 +79,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 00:59:17 UTC
+ Last Updated on 13/10/2026 23:06:28 UTC
 <!--END_SECTION:waka-->
